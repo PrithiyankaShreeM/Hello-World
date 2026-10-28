@@ -1,3 +1,26 @@
 ## Collaboration Demo
 
+<<<<<<< HEAD
 This line was added in the feature branch.
+=======
+- How to fork a GitHub repository.
+- How to create a feature branch.
+- How to commit and push changes.
+- How to create and review pull requests.
+- How to collaborate using GitHub.
+
+## Collaboration Demo
+
+This line was added directly in the master branch.
+>>>>>>> master
+
+<<<<<<< HEAD
+This line was added in the feature branch.
+=======
+This line was added directly in the master branch.
+>>>>>>> master
+
+
+## Collaboration Demo
+
+This line combines the feature work and the master branch update.
